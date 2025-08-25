@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethB55, aka Seth Bolen
 -    I just made this account to post/save all of my old projects as well as work in my robotics club
-- 👀 I’m interested in learning EVERYTHING.
+- 👀 I’m interested in learning EVERYTHING. But mainly new coding languages and maybe some network engineering.
 - 🌱 I’m currently perpetually learning C++ and Python
 - 💞️ I’m looking to collaborate on robotics or passion projects.
 - 📫 How to reach me: My email is bolenseth55@gmail.com
