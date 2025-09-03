@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SethB55, aka Seth Bolen
--    I just made this account to post/save all of my old projects as well as work in my robotics club
+-  !  I just made this account to post/save all of my old projects as well as work in my college's robotics club
+- 💥 Check out my GitLab Account! There I have my research job coding projects that I am very proud of.
 - 👀 I’m interested in learning EVERYTHING. But mainly new coding languages and maybe some network engineering.
-- 🌱 I’m currently perpetually learning C++ and Python
+- 🌱 I’m currently perpetually learning C++, Python, and Ruby on Rails
 - 💞️ I’m looking to collaborate on robotics or passion projects.
 - 📫 How to reach me: My email is bolenseth55@gmail.com
 - 😄 Pronouns: He/Him
